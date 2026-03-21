@@ -1,6 +1,10 @@
 
 # Contributor Covenant 3.0 Code of Conduct
 
+This Code of Conduct applies to all contributors and participants of the Future Iran AI Think Tank project and its community spaces, including GitHub repositories, discussions, and collaborative documents.
+
+The goal of this Code of Conduct is to ensure that this project remains a respectful, professional, and constructive environment focused on technology, engineering, research, and future-oriented problem solving.
+
 ## Our Pledge
 
 We pledge to make our community welcoming, safe, and equitable for all.
@@ -47,7 +51,7 @@ We agree to restrict the following behaviors in our community. Instances, threat
 
 Tensions can occur between community members even when they are trying their best to collaborate. Not every conflict represents a code of conduct violation, and this Code of Conduct reinforces encouraged behaviors and norms that can help avoid conflicts and minimize harm.
 
-When an incident does occur, it is important to report it promptly. To report a possible violation, **[NOTE: describe your means of reporting here.]**
+When an incident does occur, it is important to report it promptly. To report a possible violation of the Code of Conduct, please open a private issue on GitHub and mark it as "Code of Conduct Report". Project maintainers will review the report confidentially.
 
 Community Moderators take reports of violations seriously and will make every effort to respond in a timely manner. They will investigate all reports of code of conduct violations, reviewing messages, logs, and recordings, or interviewing witnesses and other participants. Community Moderators will keep investigation and enforcement actions as transparent as possible while prioritizing safety and confidentiality. In order to honor these values, enforcement actions are carried out in private with the involved parties, but communicating to the whole community may be part of a mutually agreed upon resolution.
 
