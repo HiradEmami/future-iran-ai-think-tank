@@ -34,6 +34,19 @@ Each idea should be written using the **idea template** from:
 
 ---
 
+## How to Submit an Idea
+
+To submit a new idea:
+
+1. Fork the repository
+2. Create a new file in this folder
+3. Use the idea template
+4. Name the file clearly (e.g., `smart-water-management.md`)
+5. Open a Pull Request
+6. The community will review and discuss the idea
+
+---
+
 ## Idea Lifecycle
 
 Ideas typically move through the following stages:
