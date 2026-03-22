@@ -4,7 +4,7 @@
 
 This folder contains active and planned projects derived from accepted ideas.
 
-Projects are concrete initiatives with:
+Projects are concrete initiatives that include:
 - Clear goals
 - Defined scope
 - Implementation plan
