@@ -2,6 +2,8 @@
 
 This section explores how artificial intelligence, robotics, data science, and automation can help solve the problems described in the Problems section.
 
+This section focuses on solutions that are directly connected to the problems described in the Problems section.
+
 Each document should connect to a problem and propose possible technical or engineering solutions.
 
 Possible solution types include:

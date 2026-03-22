@@ -2,6 +2,8 @@
 
 This section covers research and technical areas that are important for long-term technology development.
 
+Research topics in this section often support solutions and projects by developing new methods, datasets, tools, and technologies.
+
 The purpose of this section is to identify important research directions and technical fields that should be developed.
 
 Examples include:

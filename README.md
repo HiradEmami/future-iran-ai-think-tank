@@ -1,3 +1,4 @@
+
 # Future Iran AI Think Tank
 
 ---
@@ -10,38 +11,55 @@
 ![License](https://img.shields.io/badge/License-MIT-purple)
 
 ---
+
 ## Overview
 
-Future Iran AI Think Tank is an open, community-driven initiative focused on exploring how artificial intelligence, robotics, data science, and automation can help solve major challenges and contribute to the future development of Iran.
+Future Iran AI Think Tank is an open, community-driven initiative focused on exploring how artificial intelligence, robotics, data science, automation, and modern digital infrastructure can help solve real-world problems and contribute to long-term technological, economic, and infrastructure development.
 
-This repository serves as a collaborative knowledge base and idea hub where engineers, researchers, students, entrepreneurs, and professionals can discuss problems, propose AI-driven solutions, share research directions, and contribute to long-term technological and infrastructure strategies.
+This repository serves as a collaborative knowledge base, idea platform, and long-term strategy space where engineers, researchers, students, entrepreneurs, and professionals can contribute ideas, research directions, infrastructure plans, education strategies, and technology-driven solutions.
 
-The goal of this project is not political discussion, but technical, scientific, and engineering-oriented thinking about how modern technologies can help build better systems, industries, infrastructure, education, and public services in the future.
+This project focuses on **technical, scientific, and engineering-oriented thinking**, not political debate.
 
 ---
 
 ## Table of Contents
 
-- [Overview](#overview)
-- [Mission](#mission)
-- [Project Philosophy](#project-philosophy)
-- [Repository Structure](#repository-structure)
-  - [Vision](#1-vision)
-  - [Problems](#2-problems)
-  - [Solutions](#3-solutions)
-  - [Research](#4-research)
-  - [Infrastructure](#5-infrastructure)
-  - [Education](#6-education)
-  - [Regulation](#7-regulation)
-  - [Discussions](#8-discussions)
-- [How to Contribute](#how-to-contribute)
-  - [Contribution Guidelines](#contribution-guidelines)
-- [Contribution Workflow (GitHub)](#contribution-workflow-github)
-  - [Basic Git Workflow](#basic-git-workflow)
-- [Who This Project Is For](#who-this-project-is-for)
-- [Long-Term Vision for This Project](#long-term-vision-for-this-project)
-- [Disclaimer](#disclaimer)
-- [License](#license)
+* [Overview](#overview)
+* [Quick Start](#quick-start)
+* [Mission](#mission)
+* [Project Philosophy](#project-philosophy)
+* [Repository Structure](#repository-structure)
+* [Idea Lifecycle](#idea-lifecycle)
+* [How to Contribute](#how-to-contribute)
+* [Contribution Workflow (GitHub)](#contribution-workflow-github)
+* [Who This Project Is For](#who-this-project-is-for)
+* [Long-Term Vision for This Project](#long-term-vision-for-this-project)
+* [Documentation](#documentation)
+* [License](#license)
+
+---
+
+## Quick Start
+
+If you are new to this repository, follow this order:
+
+1. Read the **Project Philosophy**
+   → [`docs/process/PROJECT-PHILOSOPHY.md`](docs/process/PROJECT-PHILOSOPHY.md)
+
+2. Read how ideas move through the project
+   → [`docs/process/IDEA-LIFECYCLE.md`](docs/process/IDEA-LIFECYCLE.md)
+
+3. Check the repository structure
+   → [`docs/process/REPOSITORY-STRUCTURE.md`](docs/process/REPOSITORY-STRUCTURE.md)
+
+4. Read writing guidelines before contributing
+   → [`docs/writing/WRITING-GUIDELINES.md`](docs/writing/WRITING-GUIDELINES.md)
+
+5. Use templates when creating documents
+   → [`06-templates`](06-templates)
+
+6. Start by submitting an idea in:
+   → [`01-idea-proposals`](01-idea-proposals)
 
 ---
 
@@ -49,175 +67,121 @@ The goal of this project is not political discussion, but technical, scientific,
 
 The mission of this project is to create an open platform where the community can:
 
-- Identify major problems and challenges
-- Explore how AI and data-driven systems can help solve them
-- Propose technical and research-based solutions
-- Discuss infrastructure and technology requirements
-- Develop long-term strategies for AI, robotics, and automation
-- Share knowledge and research directions
-- Build a public knowledge base for future development
+* Identify major problems and challenges
+* Explore how AI and technology can help solve them
+* Propose technical and research-based solutions
+* Discuss infrastructure and technology requirements
+* Develop long-term strategies for AI, robotics, and automation
+* Share knowledge and research directions
+* Build a structured public knowledge base for long-term development
 
 This project aims to think about the future in a structured, engineering-oriented way:
-**Problem → Technology → Solution → Impact**
+
+```
+Problem → Technology → Solution → Impact
+```
 
 ---
 
 ## Project Philosophy
 
-This repository is based on a few core principles:
+The project is based on systems thinking and long-term planning.
+We focus on solving real problems using technology, infrastructure, education, research, and policy — not technology for its own sake.
 
-1. Focus on real-world problems
-2. Focus on technical and engineering solutions
-3. Think long-term (10–30 years)
-4. Be constructive and solution-oriented
-5. Use data, research, and scientific thinking
-6. Keep discussions respectful and professional
-7. Build knowledge collaboratively
-8. Document ideas clearly and structurally
-9. Avoid political debates and ideological discussions
-10. Focus on technology, infrastructure, education, and systems
+Read the full philosophy here:
 
-This is not a place for complaints.  
-This is a place for **ideas, solutions, and future building**.
+→ [`docs/process/PROJECT-PHILOSOPHY.md`](docs/process/PROJECT-PHILOSOPHY.md)
 
 ---
 
 ## Repository Structure
 
-The repository is organized into the following sections:
+The repository is organized around the lifecycle of ideas and the development of knowledge and strategy.
 
-### 1. Vision
-Defines the long-term vision, mission, principles, and overall direction of the project.
+### Main Sections
 
-### 2. Problems
-Describes major challenges and problems in areas such as:
-- Water and environment
-- Energy
-- Transportation and traffic
-- Agriculture
-- Healthcare
-- Education
-- Economy and industry
-- Urban planning
-- Infrastructure
+| Folder            | Purpose                                        |
+| ----------------- | ---------------------------------------------- |
+| 01-idea-proposals | New idea proposals submitted by contributors   |
+| 02-accepted-ideas | Reviewed and accepted ideas                    |
+| 03-projects       | Detailed projects based on accepted ideas      |
+| 04-knowledge-base | Long-term knowledge and strategy documents     |
+| 05-reports        | Reports, studies, and strategy documents       |
+| 06-templates      | Templates for writing documents                |
+| docs              | Governance, process, and writing documentation |
 
-Each problem document should clearly explain the problem, its impact, and why it matters.
+For full details, see:
 
-### 3. Solutions
-Explores how artificial intelligence, data science, robotics, and automation can help solve the problems described in the Problems section.
+→ [`docs/process/REPOSITORY-STRUCTURE.md`](docs/process/REPOSITORY-STRUCTURE.md)
 
-This may include:
-- Machine learning models
-- Optimization systems
-- Forecasting systems
-- Robotics and automation
-- Computer vision systems
-- NLP systems
-- Decision support systems
-- Simulation and modeling
-- Digital platforms and data systems
+---
 
-### 4. Research
-Covers technical and research areas that are important for the future development of AI and technology, such as:
-- Persian NLP
-- Speech recognition
-- Computer vision datasets
-- Robotics
-- Reinforcement learning
-- Control systems and AI
-- Climate and environmental modeling
-- Industrial AI
-- Smart cities
-- Autonomous systems
+## Idea Lifecycle
 
-### 5. Infrastructure
-Discusses the infrastructure required to support AI and technology development, including:
-- Data centers
-- GPU clusters and compute infrastructure
-- Cloud platforms
-- National datasets
-- Open data platforms
-- Internet infrastructure
-- Sensors and IoT systems
-- Research labs and technology parks
+Ideas typically move through the following stages:
 
-### 6. Education
-Focuses on education and workforce development:
-- AI curriculum for universities
-- Machine learning engineering training
-- Robotics education
-- Technical schools and vocational training
-- Online education platforms
-- Reskilling workforce for automation
-- Interdisciplinary education (AI + engineering + economics + policy)
+```
+Discussion
+    ↓
+Idea Proposal
+    ↓
+Review / Feedback
+    ↓
+Accepted Idea
+    ↓
+Project / Deep Dive
+    ↓
+Knowledge Base
+    ↓
+Reports / Strategy
+```
 
-### 7. Regulation
-Discusses regulation, governance, and ethical aspects of AI:
-- Data privacy
-- AI regulation
-- Autonomous systems regulation
-- AI and jobs
-- AI ethics
-- Data governance
-- Digital identity
-- Cybersecurity
+Full lifecycle documentation:
 
-### 8. Discussions
-Open ideas, brainstorming, project ideas, startup ideas, and open questions.
-
-This section is less formal and more exploratory.
+→ [`docs/process/IDEA-LIFECYCLE.md`](docs/process/IDEA-LIFECYCLE.md)
 
 ---
 
 ## How to Contribute
 
-This is an open community project, and contributions are welcome.
+This is an open community project and contributions are welcome.
 
 You can contribute by:
-- Writing about problems
-- Proposing AI solutions
-- Writing research ideas
-- Suggesting infrastructure ideas
-- Writing education proposals
-- Discussing regulation and policy ideas
-- Adding case studies from other countries
-- Improving documentation
-- Reviewing and improving existing documents
 
-### Contribution Guidelines
+* Writing idea proposals
+* Documenting problems
+* Proposing AI and technology solutions
+* Writing research topics
+* Suggesting infrastructure ideas
+* Writing education proposals
+* Discussing regulation and policy ideas
+* Writing reports and analyses
+* Improving documentation
+* Reviewing and improving existing documents
 
-When writing a document, try to follow this structure:
+Before contributing, please read:
 
-1. Problem Description
-2. Why This Matters
-3. How AI Can Help
-4. Required Data
-5. Required Infrastructure
-6. Challenges
-7. Potential Impact
-
-Clear, structured writing is preferred over long unstructured text.
+* Contribution guide → [`CONTRIBUTING.md`](CONTRIBUTING.md)
+* Writing guidelines → [`docs/writing/WRITING-GUIDELINES.md`](docs/writing/WRITING-GUIDELINES.md)
+* Templates → [`06-templates`](06-templates)
 
 ---
 
 ## Contribution Workflow (GitHub)
 
-We welcome contributions from anyone interested in AI, technology, infrastructure, education, or research related to the future development of Iran.
-
-Please follow this workflow when contributing:
+Basic workflow for contributing:
 
 1. Fork the repository
-2. Clone your fork to your local machine
-3. Create a new branch for your contribution
+2. Clone your fork
+3. Create a new branch
 4. Add or edit documents
-5. Commit your changes with clear commit messages
-6. Push your branch to your fork
-7. Open a Pull Request to the main repository
-8. Describe your changes clearly in the Pull Request
-9. Wait for review and discussion
-10. After approval, the changes will be merged
+5. Commit changes
+6. Push to your fork
+7. Open a Pull Request
+8. Participate in review and discussion
+9. After approval, the changes will be merged
 
-### Basic Git Workflow
+Example workflow:
 
 ```bash
 git clone https://github.com/YOUR-USERNAME/future-iran-ai-think-tank.git
@@ -225,74 +189,84 @@ cd future-iran-ai-think-tank
 git checkout -b my-contribution
 # make changes
 git add .
-git commit -m "Add document about AI for water management"
+git commit -m "Add idea about smart water management"
 git push origin my-contribution
 ```
+
 Then open a Pull Request on GitHub.
-
-When adding a new document, try to structure it like this:
-
-1. Problem Description
-2. Why This Matters
-3. How AI Can Help
-4. Required Data
-5. Required Infrastructure
-6. Challenges
-7. Potential Impact
 
 ---
 
 ## Who This Project Is For
 
 This project may be interesting for:
-- AI engineers
-- Data scientists
-- Robotics engineers
-- Software engineers
-- Researchers
-- Students
-- Economists
-- Urban planners
-- Policy researchers
-- Entrepreneurs
-- Startup founders
-- Educators
-- Anyone interested in technology and the future
 
-You do not need to be an expert to contribute.  
-Good ideas, clear thinking, and structured writing are welcome.
+* AI engineers
+* Data scientists
+* Robotics engineers
+* Software engineers
+* Researchers
+* Students
+* Economists
+* Urban planners
+* Policy researchers
+* Entrepreneurs
+* Startup founders
+* Educators
+* Anyone interested in technology and the future
+
+You do not need to be an expert to contribute.
+Clear thinking, structured writing, and good ideas are valuable.
 
 ---
 
 ## Long-Term Vision for This Project
 
-If this project grows over time, it could become:
+If this project grows over time, it may evolve into:
 
-- A public knowledge base
-- A think tank
-- A research community
-- A collection of technical and policy documents
-- A source of startup ideas
-- A technology roadmap
-- A platform for collaboration between engineers and researchers
-- A place for publishing white papers and reports
+* A public knowledge base
+* A think tank
+* A research community
+* A technology strategy platform
+* A collection of technical and policy documents
+* A source of startup ideas
+* A collaboration platform for engineers and researchers
+* A long-term technology roadmap initiative
 
-The goal is to think seriously about how technology and AI can help build better systems and solve real problems in the future.
+The goal is to build a structured platform for long-term thinking about technology, infrastructure, education, and systems.
 
 ---
 
-## Disclaimer
+## Documentation
 
-This repository represents ideas, discussions, and technical explorations contributed by the community.  
-The content does not represent any government, organization, or official institution.
+Project documentation is located in the `docs` folder:
 
-All contributions are opinions, ideas, and research discussions intended for educational, technical, and exploratory purposes.
+| Document             | Description                            |
+| -------------------- | -------------------------------------- |
+| Governance           | Project governance and decision making |
+| Idea Lifecycle       | How ideas move through the project     |
+| Project Philosophy   | Philosophy and mindset of the project  |
+| Repository Structure | Explanation of repository structure    |
+| Writing Guidelines   | How documents should be written        |
+
+Documentation folders:
+
+```
+docs/
+    governance/
+    process/
+    writing/
+```
 
 ---
 
 ## License
 
 This project is open-source and released under the MIT License unless stated otherwise.
+
+See:
+
+→ [`LICENSE`](LICENSE)
 
 ---
 

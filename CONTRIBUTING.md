@@ -84,6 +84,37 @@ git push origin my-contribution
 ```
 Then open a Pull Request on GitHub.
 
+## Pull Request Template
+You can use the following template for the pull request:
+
+```markdown
+## Idea Title
+[Name of the idea]
+
+## Summary
+Provide a short summary of this pull request.
+
+## Changes
+Describe what was added, updated, or removed.
+
+## Section
+Where does this contribution belong?
+- [ ] Idea Proposal
+- [ ] Accepted Idea
+- [ ] Project
+- [ ] Knowledge Base
+- [ ] Report
+- [ ] Documentation
+- [ ] Templates
+- [ ] Other
+
+## Reason
+Explain why this contribution is useful or important.
+
+## Additional Notes
+Any additional information for reviewers.
+```
+
 ---
 
 ## Contribution Principles

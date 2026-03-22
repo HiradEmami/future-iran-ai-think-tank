@@ -11,7 +11,7 @@ The purpose of the Vision section is to describe:
 - How artificial intelligence and technology may shape the future
 - What kind of future systems, infrastructure, and technological landscape we should aim to build
 
-This section is not about specific problems or solutions, but about the **big picture and long-term direction**.
+This section focuses on the **big picture and long-term direction**, not on specific problems or individual solutions.
 
 Documents in this section may include:
 - Mission
