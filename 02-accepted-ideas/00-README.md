@@ -21,7 +21,7 @@ The goal of this folder is to:
 
 Ideas move here from:
 
-[templates/idea-template.md](/06-templates/01-idea-template.md)
+[/01-idea-proposals](/01-idea-proposals) -> [02-accepted-ideas/](/02-accepted-ideas)
 
 
 An idea should be moved here when:
