@@ -1,8 +1,12 @@
 # Knowledge Base
 
+---
+
 This folder contains structured knowledge, research topics, infrastructure concepts, policy ideas, and educational material related to AI, technology, and national development.
 
 This is not for specific projects, but for **building long-term knowledge and strategic understanding**.
+
+---
 
 ## Purpose
 
@@ -12,16 +16,42 @@ The goal of the knowledge base is to:
 - Provide background for future projects and policies
 - Build a long-term strategic understanding of AI and technology
 
+---
+
 ## Structure
 
 The knowledge base is divided into several domains:
 
-- education → AI education, universities, training, workforce development
-- infrastructure → data centers, GPU clusters, cloud platforms, internet infrastructure
-- problems → national problems and AI solutions
-- regulation → laws, policies, ethics, governance
-- research → important research areas
 - vision → long-term strategy and vision
+- problems → national problems and challenges
+- solutions → AI and technology solutions
+- research → important research areas
+- infrastructure → data centers, GPU clusters, cloud platforms, internet infrastructure
+- education → AI education, universities, training, workforce development
+- regulation → laws, policies, ethics, governance
+
+```text
+            VISION
+              |
+              v
+           PROBLEMS
+              |
+              v
+           SOLUTIONS
+              |
+              v
+            RESEARCH
+              |
+              v
+        INFRASTRUCTURE
+              |
+              v
+           EDUCATION
+              |
+              v
+          REGULATION
+```
+---
 
 ## Goal
 
