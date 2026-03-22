@@ -1,8 +1,12 @@
 # Templates
 
+---
+
 This folder contains templates used for writing ideas, projects, reports, research documents, and other structured documents.
 
 Templates ensure that all documents in this repository follow a consistent structure and are easy to read, compare, and review.
+
+---
 
 ## Available Templates
 
@@ -15,6 +19,13 @@ Templates ensure that all documents in this repository follow a consistent struc
 - regulation-template.md → For laws, policies, and governance
 - report-template.md → For reports and studies
 
+---
+
+## Important
+
+All new ideas, projects, reports, and knowledge base documents should be created using the appropriate template from this folder.
+
+---
 ## How to Use
 
 When creating a new document:
@@ -22,6 +33,8 @@ When creating a new document:
 2. Rename the file
 3. Fill in the sections
 4. Commit the document
+
+---
 
 ## Goal
 
