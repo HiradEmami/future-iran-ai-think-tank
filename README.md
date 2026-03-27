@@ -161,7 +161,7 @@ You can contribute by:
 
 Before contributing, please read:
 
-* Contribution guide → [`CONTRIBUTING.md`](CONTRIBUTING.md)
+* Contribution guide → [`CONTRIBUTING.md`](docs/CONTRIBUTING.md)
 * Writing guidelines → [`docs/writing/WRITING-GUIDELINES.md`](docs/writing/WRITING-GUIDELINES.md)
 * Templates → [`06-templates`](06-templates)
 
